@@ -1,0 +1,13 @@
+{
+  "name": "inm320-bootstrap",
+  "version": "1.0.0",
+  "description": "INM320 Bootstrap Assignment",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Patrick Schroen",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
